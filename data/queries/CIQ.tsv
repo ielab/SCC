@@ -1,0 +1,75 @@
+0	add attributes and classes to a collage/svg object in elm
+1	benefit of .elmo elmo binaries
+2	best or most recent course to learn elm
+3	clojure monitor namespace usage via use vs require all vs require namespace
+4	clojure nested if-let with the same fallback
+5	clojure re-frame jvm
+6	clojure suitability for soft real time systems
+7	clojure type hint object[]
+8	closure specs fdefs separate namespaces
+9	disadvantages of integrating
+10	elm == pointers
+11	elm app fail immediately with a console error of “Uncaught TypeError: Cannot read property ‘appendChild’ of null”
+12	elm compilation error conflicting name declarations using mri and mci in a case statement
+13	elm debug post request throwing network error
+14	elm disadvantages for new projects
+15	elm init port
+16	elm json decoder for date type
+17	elm mouseevent get webkitforce value
+18	elm pass a function that updates a certain part of a model
+19	elm pass model to http upload function
+20	elm tutorial target version
+21	elm type error replaceData is not a function in Rollbar
+22	elm update fields in a web form using a single function
+23	elm url navigation and browser
+24	python check class has method and call it
+25	Python multiprocessing directory of files
+26	python regex replace multiple dash with one dash
+27	python test circleci
+28	reactor level elm testing
+29	simple PRs for elm core libs taking so long to get merged
+30	speedup start time of exectuing clojure code in dev
+31	troubleshooting a failed loading pip module
+32	Unauthenticated correct pymssql connection string creds 
+33	voice recognition integration into a mobile app
+34	weird python error `Segmentation fault` 
+35	"wrap ""(map #(make-boolean! %) @items)"" in a swap! in clojure"
+36	Writing similar Haskells partition in clujure
+37	numpy matrix not same size error
+38	getting basic autocompletion without nrep in clojure
+39	Run-time error Can’t read property childNode
+40	infinite recursion error
+41	Sqlite3-like python db
+42	Connecting python with powerBI
+43	formatting string passed to sql execute
+44	Displaying content in popup div by hovering over items.
+45	Reading undelimited character stream into json documents.
+46	change mysql timeout configration
+47	Daily data extraction and storing from website
+48	pythonic sql-toolkits
+49	Guidance for microservices authentication in clojure 
+50	Python function that returns list of dictionary github project information 
+51	Getting import error with installed python slackclient 
+52	Explaining what virtual ends are in python
+53	installing a python module to pip
+54	tools that people using to package up and deploy app
+55	How to do overkill in clojure
+56	Allowing people to install my devtool into their clojure project 
+57	getting error clojure Exception SQL String can not be NULL
+58	lowest startup delay' method when running clojure on aws
+59	How to use StructMap over a Record in clojure 
+60	Error with translating MongoDB query to Monger in clojure 
+61	parse clojure file without evaluation
+62	clojure when clause side effects
+63	sentiment analysis code
+64	python tree child contains self and all children
+65	Stemming and Storing  synonyms of keywords
+66	Python large csv file read write iterator
+67	pandas dataframe list of lists
+68	immutable datastructure exercise clojure
+69	Elmlang prevent cursor mouseover changing svg
+70	querying Elasticsearch index by python
+71	Having deferent types of `__init__()` class functions 
+72	Kibana unable to connect Elasticsearch
+73	deference between mypy and type annotation
+74	Elasticsearch Timeout error with flask application
