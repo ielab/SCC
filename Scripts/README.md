@@ -1,1 +1,2 @@
-
+## Mapping retrieved messages to their relevant conversations
+This tool has been develped to generate a map whose key is query\_id and value is a list of pruned conversation\_ids depending on the message-based index. After retrieving message\_ids from the message-based index, we look up our main map to obtain the corresponding conversation\_ids that contain the retrieved messages. Then these conversation\_ids are appended into the list value corresponding to the query\_id after pruning the redundant conversations since some message\_ids refer to the same conversation\_id and our retrieval unit is known item retrieval that is one conversation per query.
