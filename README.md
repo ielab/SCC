@@ -14,7 +14,7 @@ This work is currently under review as a resource paper at CIKM 2022.
 
 SCC is a new test collection for both message and conversation retrieval in chat conversations domain.
 
-The source of the test collection was this work [Software-related Slack Chats with Disentangled Conversations](https://github.com/preethac/Software-related-Slack-Chats-with-Disentangled-Conversations.git)
+The source of the conversations collection was this work [Software-related Slack Chats with Disentangled Conversations](https://github.com/preethac/Software-related-Slack-Chats-with-Disentangled-Conversations.git)
 
 To generate an Information Retrieval test collection from abov work, the preprocessing task was essential in order to create a complete test collection for the sake of evaluating fairly Information Retrieval systems. The preprocessing we have performed was to extract each message from the XML file as a JSON document with a new generated document\_id for each message by utilising its conversation label and timestamp to guarantee that each message is given a uniqu id. Similarly, we extracted each conversation as a JSON document with a new generated document\_id for each conversation. The content of conversation document is the dialogue of participants. Each message in the dialogue carries the same message id on which we  use later for an evaluation and annotation purpose. From here, we output two JSON files one contains 38956 conversations and the other one contains 437884 messages distributed over these conversations as plotted in the following figure 
 
